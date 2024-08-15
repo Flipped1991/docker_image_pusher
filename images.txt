@@ -9,4 +9,8 @@
 #registry.k8s.io/pause:3.9
 #registry.k8s.io/etcd:3.5.12-0
 #registry.k8s.io/coredns/coredns:v1.10.1
-registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.10.1
+#registry.k8s.io/kube-state-metrics/kube-state-metrics:v2.10.1
+feiyu563/prometheus-alert:v4.9.1
+eipwork/etcd-host:3.4.16-2
+swr.cn-east-2.myhuaweicloud.com/kuboard/kuboard-agent:v3
+swr.cn-east-2.myhuaweicloud.com/kuboard/kuboard:v3
