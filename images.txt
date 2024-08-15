@@ -14,6 +14,8 @@
 #eipwork/etcd-host:3.4.16-2
 #swr.cn-east-2.myhuaweicloud.com/kuboard/kuboard-agent:v3
 #swr.cn-east-2.myhuaweicloud.com/kuboard/kuboard:v3
-traefik:v3.0
-docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel1
-docker.io/flannel/flannel:v0.25.5
+#traefik:v3.0
+#docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel1
+#docker.io/flannel/flannel:v0.25.5
+ubuntu:22.04
+iredmail/mariadb:stable
