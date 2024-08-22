@@ -21,4 +21,5 @@
 #iredmail/mariadb:stable
 #tomcat:9.0.93-jdk8
 #openjdk:8
-registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+#registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
+registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.18
