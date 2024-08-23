@@ -22,4 +22,7 @@
 #tomcat:9.0.93-jdk8
 #openjdk:8
 #registry.k8s.io/sig-storage/nfs-subdir-external-provisioner:v4.0.2
-mysql:5.7.44
+#mysql:5.7.44
+nacos/nacos-peer-finder-plugin:1.1
+nacos/nacos-server:v2.4.1
+
