@@ -25,5 +25,9 @@
 #mysql:5.7.44
 #nacos/nacos-peer-finder-plugin:1.1
 #nacos/nacos-server:v2.4.1
-traefik:v3.0
+#traefik:v3.0
+questdb/questdb:6.0.5
+eipwork/kuboard-agent:v3.5.1-amd64
+eipwork/etcd-host:3.4.16-2
+eipwork/kuboard:v3.5.2.7
 
