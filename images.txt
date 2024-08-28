@@ -32,6 +32,8 @@
 #eipwork/kuboard:v3.5.2.7
 #eipwork/kuboard-agent:v3
 #traefik:v2.11.2
-traefik:v3.1
+#traefik:v3.1
+kubernetesui/metrics-scraper:v1.0.9
+bitnami/metrics-server:0.7.2
 
 
