@@ -38,5 +38,6 @@
 #kubesphere/kube-rbac-proxy:v0.11.0
 #kubespheredev/kubeeye-controller:v1.0.1
 #kubespheredev/kubeeye-apiserver:v1.0.1
-kubespheredev/kubeeye-job:v1.0.1
+#kubespheredev/kubeeye-job:v1.0.1
+k8s.gcr.io/node-problem-detector/node-problem-detector:v0.8.7
 
