@@ -35,7 +35,8 @@
 #traefik:v3.1
 #docker.io/kubernetesui/metrics-scraper:v1.0.8
 #registry.k8s.io/metrics-server/metrics-server:v0.7.1
-kubesphere/kube-rbac-proxy:v0.11.0
-kubespheredev/kubeeye-controller:v1.0.1
-kubespheredev/kubeeye-apiserver:v1.0.1
+#kubesphere/kube-rbac-proxy:v0.11.0
+#kubespheredev/kubeeye-controller:v1.0.1
+#kubespheredev/kubeeye-apiserver:v1.0.1
+kubespheredev/kubeeye-job:v1.0.1
 
