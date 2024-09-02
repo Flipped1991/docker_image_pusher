@@ -39,5 +39,6 @@
 #kubespheredev/kubeeye-controller:v1.0.1
 #kubespheredev/kubeeye-apiserver:v1.0.1
 #kubespheredev/kubeeye-job:v1.0.1
-kubesphere/node-problem-detector:v0.8.10
+#kubesphere/node-problem-detector:v0.8.10
+frooodle/s-pdf:0.28.3
 
