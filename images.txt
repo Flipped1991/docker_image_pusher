@@ -97,5 +97,9 @@
 #redis:7.4.0
 #apache/skywalking-ui:10.0.1
 #apache/skywalking-oap-server:10.0.1
-tdengine/tdengine:3.3.2.0
+#tdengine/tdengine:3.3.2.0
+zabbix/zabbix-java-gateway:6.0-centos-latest
+zabbix/zabbix-server-mysql:6.0-centos-latest
+zabbix/zabbix-web-nginx-mysql:6.0-centos-latest
+zabbix/zabbix-agent2:6.0-centos-latest
 
