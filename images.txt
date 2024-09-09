@@ -93,4 +93,5 @@
 #tomcat:9.0.93-jdk8
 #emqx/emqx:5.8
 #emqx/emqx:v4.0.0
-nginx:1.27.1
+#nginx:1.27.1
+redis:7.4.0
