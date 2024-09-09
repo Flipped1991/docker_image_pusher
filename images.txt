@@ -57,5 +57,11 @@
 #swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/promtail:2.7.1
 #swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/grafana:9.3.1
 #swr.cn-east-2.myhuaweicloud.com/kuboard-dependency/loki:2.7.1
-quay.io/prometheuscommunity/elasticsearch-exporter:v1.7.0
+#quay.io/prometheuscommunity/elasticsearch-exporter:v1.7.0
+elasticsearch:7.17.23
+elasticsearch:8.15.1
+kibana:8.15.1
+kibana:7.17.23
+elastic/filebeat:8.15.1
+elastic/filebeat:7.17.23
 
