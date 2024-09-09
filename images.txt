@@ -65,5 +65,13 @@
 #elastic/filebeat:8.15.1
 #elastic/filebeat:7.17.23
 #apache/kafka:3.8.0
-kafkamanager/kafka-manager:3.0.0.4
-
+#kafkamanager/kafka-manager:3.0.0.4
+bitnami/prometheus:2.54.1
+grafana/grafana:11.2.0
+bitnami/node-exporter:1.8.2
+bitnami/redis-exporter:1.63.0
+bitnami/mysqld-exporter:0.15.1
+prom/influxdb-exporter:v0.11.7
+bitnami/alertmanager:0.27.0
+timonwong/prometheus-webhook-dingtalk:v2.1.0
+bitnami/kafka-exporter:1.7.0
