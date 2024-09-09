@@ -64,5 +64,6 @@
 #kibana:7.17.23
 #elastic/filebeat:8.15.1
 #elastic/filebeat:7.17.23
-apache/kafka:3.8.0
+#apache/kafka:3.8.0
+kafkamanager/kafka-manager:3.0.0.4
 
