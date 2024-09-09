@@ -87,7 +87,9 @@
 #snowdreamtech/frpc:0.60
 #ffdfgdfg/nps:v0.26.10
 #ffdfgdfg/npc:v0.26.10
-mariadb:10.6.19
-jenkins/jenkins:2.475
-jenkins/jenkins:2.426.3-lts
-tomcat:9.0.93-jdk8
+#mariadb:10.6.19
+#jenkins/jenkins:2.475
+#jenkins/jenkins:2.426.3-lts
+#tomcat:9.0.93-jdk8
+emqx/emqx:5.8
+emqx/emqx:v4.0.0
