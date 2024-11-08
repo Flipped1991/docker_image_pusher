@@ -102,5 +102,7 @@
 #zabbix/zabbix-server-mysql:6.0-centos-latest
 #zabbix/zabbix-web-nginx-mysql:6.0-centos-latest
 #zabbix/zabbix-agent2:6.0-centos-latest
-logstash:7.17.23
+#logstash:7.17.23
+apacherocketmq/rocketmq-dashboard:1.0.0
+apache/rocketmq:5.3.1
 
