@@ -105,5 +105,6 @@
 #logstash:7.17.23
 #apacherocketmq/rocketmq-dashboard:1.0.0
 #apache/rocketmq:5.3.1
-nacos/nacos-server:v2.4.3
+#nacos/nacos-server:v2.4.3
+busybox:1.37.0
 
