@@ -107,7 +107,8 @@
 #apache/rocketmq:5.3.1
 #nacos/nacos-server:v2.4.3
 #busybox:1.37.0
-apache/skywalking-ui:10.1.0
-apache/skywalking-oap-server:10.1.0
-apache/skywalking-java-agent:9.3.0-java8
+#apache/skywalking-ui:10.1.0
+#apache/skywalking-oap-server:10.1.0
+#apache/skywalking-java-agent:9.3.0-java8
+elasticsearch:6.8.23
 
