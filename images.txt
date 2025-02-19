@@ -126,4 +126,4 @@
 #prom/prometheus:v2.55.1
 #python:3.12.7-slim
 #python:3.12.7
-langgenius/dify-web:1.0.0
+langgenius/dify-api:main
