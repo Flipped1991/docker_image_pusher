@@ -128,4 +128,5 @@
 #python:3.12.7
 #langgenius/dify-api:main
 #python:3.9.22-alpine
-python:3.9.22-slim
+#python:3.9.22-slim
+openjdk:8-jre-slim
