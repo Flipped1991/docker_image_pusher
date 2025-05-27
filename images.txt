@@ -129,4 +129,5 @@
 #langgenius/dify-api:main
 #python:3.9.22-alpine
 #python:3.9.22-slim
-openjdk:8-jre-slim
+#openjdk:8-jre-slim
+prom/prometheus:v3.4.0
