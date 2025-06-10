@@ -131,5 +131,6 @@
 #python:3.9.22-slim
 #openjdk:8-jre-slim
 #prom/prometheus:v3.4.0
-zookeeper:3.4.13
-elasticsearch:6.8.10
+#zookeeper:3.4.13
+#elasticsearch:6.8.10
+elasticsearch:7.17.28
