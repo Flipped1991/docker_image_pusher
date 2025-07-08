@@ -134,4 +134,5 @@
 #zookeeper:3.4.13
 #elasticsearch:6.8.10
 #elasticsearch:7.17.28
-eosphorosai/dbgpt:latest
+#eosphorosai/dbgpt:latest
+alpine:latest
