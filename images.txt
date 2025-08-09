@@ -135,4 +135,6 @@
 #elasticsearch:6.8.10
 #elasticsearch:7.17.28
 #eosphorosai/dbgpt:latest
-alpine:latest
+#alpine:latest
+provectuslabs/kafka-ui:v0.7.2
+dushixiang/kafka-map:v1.3.3
