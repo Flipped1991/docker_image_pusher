@@ -138,4 +138,5 @@
 #alpine:latest
 #provectuslabs/kafka-ui:v0.7.2
 #dushixiang/kafka-map:v1.3.3
-openjdk:17-jdk-slim
+#openjdk:17-jdk-slim
+rustdesk/rustdesk-server:1.1.14
