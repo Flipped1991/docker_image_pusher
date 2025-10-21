@@ -140,4 +140,5 @@
 #dushixiang/kafka-map:v1.3.3
 #openjdk:17-jdk-slim
 #rustdesk/rustdesk-server:1.1.14
-eipwork/kuboard:v3.5.2.9
+#eipwork/kuboard:v3.5.2.9
+openjdk:17-jdk
