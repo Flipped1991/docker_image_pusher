@@ -141,4 +141,5 @@
 #openjdk:17-jdk-slim
 #rustdesk/rustdesk-server:1.1.14
 #eipwork/kuboard:v3.5.2.9
-openjdk:17-jdk
+#openjdk:17-jdk
+redis:6.2.22
