@@ -145,4 +145,5 @@
 #redis:6.2.21
 #redis:7.2.11
 #jenkins/jenkins:2.528.3-lts
-apache/rocketmq:5.3.4
+#apache/rocketmq:5.3.4
+apacherocketmq/rocketmq-dashboard:1.0.0
