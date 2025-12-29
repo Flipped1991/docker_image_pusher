@@ -144,4 +144,5 @@
 #openjdk:17-jdk
 #redis:6.2.21
 #redis:7.2.11
-jenkins/jenkins:2.528.3-lts
+#jenkins/jenkins:2.528.3-lts
+apache/rocketmq:5.3.4
