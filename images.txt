@@ -149,4 +149,6 @@
 #apacherocketmq/rocketmq-dashboard:2.1.0
 #snowdreamtech/frps:0.65
 #snowdreamtech/frpc:0.65
-eclipse-temurin:17.0.17_10-jdk
+#eclipse-temurin:17.0.17_10-jdk
+eclipse-temurin:17.0.17_10-jdk-alpine-3.23
+eclipse-temurin:8u472-b08-jre-alpine-3.23
