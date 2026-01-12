@@ -147,5 +147,6 @@
 #jenkins/jenkins:2.528.3-lts
 #apache/rocketmq:5.3.4
 #apacherocketmq/rocketmq-dashboard:2.1.0
-snowdreamtech/frps:0.65
-snowdreamtech/frpc:0.65
+#snowdreamtech/frps:0.65
+#snowdreamtech/frpc:0.65
+openjdk:17-jdk
