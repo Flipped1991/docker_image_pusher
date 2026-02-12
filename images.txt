@@ -150,5 +150,8 @@
 #snowdreamtech/frps:0.65
 #snowdreamtech/frpc:0.65
 #eclipse-temurin:17.0.17_10-jdk
-eclipse-temurin:17.0.17_10-jdk-alpine-3.23
-eclipse-temurin:8u472-b08-jre-alpine-3.23
+#eclipse-temurin:17.0.17_10-jdk-alpine-3.23
+#eclipse-temurin:8u472-b08-jre-alpine-3.23
+elasticsearch:7.17.28
+elasticsearch:8.19.11
+elasticsearch:6.8.23
