@@ -151,4 +151,4 @@
 #elasticsearch:6.8.23
 #elasticsearch:7.17.28
 #elasticsearch:8.19.11
-
+traefik:v3.6.10
