@@ -153,4 +153,5 @@
 #elasticsearch:8.19.11
 #traefik:v3.6.10
 #grafana/grafana:11.2.0
-quay.io/prometheus/node-exporter:v1.8.2
+#quay.io/prometheus/node-exporter:v1.8.2
+percona/percona-xtrabackup:2.4
