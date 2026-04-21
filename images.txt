@@ -154,4 +154,7 @@
 #traefik:v3.6.10
 #grafana/grafana:11.2.0
 #quay.io/prometheus/node-exporter:v1.8.2
-percona/percona-xtrabackup:2.4
+#percona/percona-xtrabackup:2.4
+grafana/grafana:13.0.1
+grafana/loki:3.6.10
+grafana/promtail:3.6.10
