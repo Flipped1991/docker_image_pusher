@@ -158,4 +158,4 @@
 #grafana/grafana:13.0.1
 #grafana/loki:3.6.10
 #grafana/promtail:3.6.10
-python:3.13.25
+python:3.13.13
