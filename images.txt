@@ -160,4 +160,5 @@
 #grafana/promtail:3.6.10
 #python:3.13.13
 #python:3.12.6
-ollama/ollama:latest
+#ollama/ollama:latest
+python:3.11-slim
