@@ -162,3 +162,4 @@
 #python:3.12.6
 #ollama/ollama:latest
 #python:3.11-slim
+vllm/vllm-openai:qwen38-x86_64-cu129@sha256:93655f82abeadc079b350cfe22dc578f360cce9dcfb60c09fe022deeb5efc3a3
