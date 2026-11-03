@@ -32,6 +32,24 @@ jobs:
         free -h || true
         echo "===== 磁盘 ====="
         df -hT || true
+    - name: 清理不需要的预装工具
+      continue-on-error: true
+      shell: bash
+      run: |
+        echo "===== 清理前磁盘空间 ====="
+        df -hT || true
+
+        sudo rm -rf \
+          /usr/local/lib/android \
+          /usr/local/.ghcup \
+          /usr/share/dotnet \
+          /opt/ghc \
+          /opt/hostedtoolcache/CodeQL || true
+
+        sudo apt-get clean || true
+
+        echo "===== 清理后磁盘空间 ====="
+        df -hT || true
         
     - name: Checkout Code
       uses: actions/checkout@v4
