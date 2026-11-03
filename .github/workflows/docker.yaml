@@ -18,12 +18,20 @@ jobs:
     name: Pull
     runs-on: ubuntu-latest
     steps:
-    - name: Before freeing up disk space
+    - name: 查看运行环境
+      continue-on-error: true
+      shell: bash
       run: |
-        echo "Before freeing up disk space"
-        echo "=============================================================================="
-        df -hT
-        echo "=============================================================================="
+        echo "===== 系统版本 ====="
+        # https://docs.github.com/en/actions/reference/runners/github-hosted-runners
+        cat /etc/os-release || true
+        uname -r || true
+        echo "===== CPU 核数 ====="
+        nproc || true
+        echo "===== 内存 ====="
+        free -h || true
+        echo "===== 磁盘 ====="
+        df -hT || true
         
     - name: Checkout Code
       uses: actions/checkout@v4
